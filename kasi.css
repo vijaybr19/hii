@@ -1,0 +1,49 @@
+h1{
+    text-transform: uppercase;
+    outline: 2px dotted black;
+    position:static;
+}
+
+/* body{ 
+    background-image: url(download\ \(1\).jpeg);
+    background-size: 25px;
+   
+    background-repeat: repeat;
+    background-attachment: local;
+}*/
+p{
+    font-family: 'Times New Roman';
+    text-indent: 2cm;
+    text-orientation:upright;
+}
+#outer{
+    font-size: 25px;
+
+}
+#inner{
+    font-size: 10px;
+}
+
+h1{
+text-shadow: -5px 5px 3px red;
+}
+img{
+    opacity: 90%;
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+}
+
+
+
+
+
+/* .hi{
+    width: 1000px;
+    height: 1000px;
+    background-color: green;
+    border-radius: 50%;
+    border: 20px ridge black;
+    border-bottom-color: red;
+    border-top-color: yellow;
+}  */

@@ -1,0 +1,40 @@
+
+.flag{
+    background-color: yellow;
+    height: 250px;
+    width: 1850px;
+}
+.flag:hover{
+    background-color: red;
+}
+.message{
+    background-color: red;
+    height: 250px;
+    width: 1850px;
+    background-blend-mode: normal;
+}
+
+.message:hover{
+    background-color: yellow;
+}
+.move{
+    position: absolute;
+    animation: moveLeftToRight 8s linear infinite ;
+    
+}
+
+h1:hover{
+    color: yellow;
+}
+
+@keyframes moveLeftToRight{
+    0% { left: -1850px;}
+
+    100%{left:1300px;}
+}
+
+div{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+}
